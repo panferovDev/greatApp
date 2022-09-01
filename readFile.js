@@ -1,5 +1,5 @@
 const fs = require('fs');
 
 const readFileFn = (path) => fs.readFileSync(path, 'utf-8');
-// сломал систему
+// nu privet
 module.exports = readFileFn;
